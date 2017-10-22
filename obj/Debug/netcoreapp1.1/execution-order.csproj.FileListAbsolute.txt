@@ -1,0 +1,5 @@
+c:\github\execution-order\bin\Debug\netcoreapp1.1\execution-order.deps.json
+c:\github\execution-order\bin\Debug\netcoreapp1.1\execution-order.runtimeconfig.json
+c:\github\execution-order\bin\Debug\netcoreapp1.1\execution-order.runtimeconfig.dev.json
+c:\github\execution-order\obj\Debug\netcoreapp1.1\execution-order.csproj.CoreCompileInputs.cache
+c:\github\execution-order\obj\Debug\netcoreapp1.1\execution-order.AssemblyInfo.cs
