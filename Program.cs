@@ -8,7 +8,7 @@ namespace execution_order
         {
             var initResult = Init.Execute();
             var workResult = Work.Execute(initResult);
-            var closeResult = Close.Execute(workResult);
+            Close.Execute(workResult);
         }
     }
 }
